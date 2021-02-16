@@ -1,8 +1,0 @@
-{
-    "type": "chrome",
-    "request": "attach",
-    "name": "Attach to Chrome",
-    "port": 9222,
-    "urlFilter": "http://localhost:4200/*",
-    "webRoot": "/Users/evox95/workspace/bestcoding/cypress"
-  }

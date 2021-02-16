@@ -11,10 +11,7 @@
             "type": "pwa-chrome",
             "webRoot": "${workspaceFolder}",
             "urlFilter": "http://localhost*",
-            // "sourceMaps": true,
-            "skipFiles": [
-                "cypress_runner.js",
-            ],
+            "sourceMaps": false
         }
     ]
 }
